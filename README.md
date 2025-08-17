@@ -1,5 +1,12 @@
-# 💫 About Me:
-# Hi there, I'm Pratyush 👋  <br><br>💻 Full Stack Developer | 🚀 Building ParadoxGPT | 🌐 Passionate about AI, Web & 3D  <br>I love crafting **interactive applications**, exploring **machine learning**, and building **cool open-source projects**.  <br><br>✨ My goal: Turning ideas into scalable solutions.<br>
+## 👋 About Me  
+
+I’m Pratyush, a passionate **Full Stack Developer** who loves turning ideas into functional, user-friendly applications.  
+I enjoy working across the stack—from crafting responsive frontends to building scalable backends.  
+
+🌱 Continuously learning and exploring new technologies  
+💡 Strong believer in clean, maintainable code  
+🤝 Open to collaborations on exciting projects  
+✨ Striving to create impactful digital experiences
 
 
 ## 🌐 Socials:
