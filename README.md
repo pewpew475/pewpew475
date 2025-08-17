@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>Hi, I'm a B.Tech CSE student passionate about crafting sleek, responsive, and user-friendly web interfaces. I specialize in frontend web development and love bringing ideas to life through clean code and creative design.<br><br>💻 Tech I work with: React, Tailwind CSS, JavaScript/TypeScript, and modern UI libraries<br><br>🎨 I blend logic with creativity — designing not just for function, but for experience<br><br>🚀 Always learning, building, and exploring new tech<br><br>🌐 Open to collaborations on cool projects, especially in frontend and creative coding<br><br>Let's build something awesome.
+👋 About Me<br>Hi, I'm a B.Tech CSE student passionate about crafting sleek, responsive, and user-friendly web interfaces. I specialize in Full stack development and love bringing ideas to life through clean code and creative design.<br><br>💻 Tech I work with: React, Tailwind CSS, JavaScript/TypeScript, and modern UI libraries<br><br>🎨 I blend logic with creativity — designing not just for function, but for experience<br><br>🚀 Always learning, building, and exploring new tech<br><br>🌐 Open to collaborations on cool projects, especially in frontend and creative coding<br><br>Let's build something awesome.
 
 
 ## 🌐 Socials:
